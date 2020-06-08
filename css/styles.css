@@ -1,0 +1,57 @@
+  body {
+    background-color: #aacfcf;
+  }
+
+  img:hover {
+    border: 5px solid white;
+    transition: border .3s;
+    border-radius: 100%;
+  }
+
+  hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  h1 {
+    color: #10375c;
+    font-family: 'BeonRegular';
+    font-weight: bolder;
+    font-style: normal;
+  }
+
+  h3 {
+    color: #10375c;
+    font-family: 'Lobster', cursive;
+  }
+
+  ul {
+    font-family: 'Caladea', serif;
+  }
+
+  ol {
+    font-family: 'Caladea', serif;
+  }
+
+  table {
+    font-family: 'Caladea', serif;
+  }
+
+  p{
+    font-family: 'Caladea', serif;
+  }
+
+  label {
+    font-family: 'Caladea', serif;
+  }
+
+  .signup{
+    border-radius: 30%;
+    padding: 10px;
+    font-size:20px;
+    background-color: #10375c;
+    color:white;
+  }
